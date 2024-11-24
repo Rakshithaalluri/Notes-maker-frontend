@@ -1,0 +1,15 @@
+/* src/styles/NotesManager.css */
+.notes-manager {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .notes-manager h1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2em;
+  }
+  
+  
